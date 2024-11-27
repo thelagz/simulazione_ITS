@@ -1,0 +1,182 @@
+{
+  "main": {
+    "id": "b85bdc424f298a64",
+    "type": "split",
+    "children": [
+      {
+        "id": "2e24d9d7e7ccd58f",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "c5d9217c2c9a490f",
+            "type": "leaf",
+            "state": {
+              "type": "empty",
+              "state": {},
+              "icon": "lucide-file",
+              "title": "Nuova scheda"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "vertical"
+  },
+  "left": {
+    "id": "9286ebf98fc57c14",
+    "type": "split",
+    "children": [
+      {
+        "id": "35e51061365d81a9",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "323f5205aac60724",
+            "type": "leaf",
+            "state": {
+              "type": "file-explorer",
+              "state": {
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-folder-closed",
+              "title": "Esplora risorse"
+            }
+          },
+          {
+            "id": "5746009459a6cedc",
+            "type": "leaf",
+            "state": {
+              "type": "search",
+              "state": {
+                "query": "",
+                "matchingCase": false,
+                "explainSearch": false,
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical"
+              },
+              "icon": "lucide-search",
+              "title": "Ricerca"
+            }
+          },
+          {
+            "id": "8090e3b448246d79",
+            "type": "leaf",
+            "state": {
+              "type": "bookmarks",
+              "state": {},
+              "icon": "lucide-bookmark",
+              "title": "Segnalibri"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300
+  },
+  "right": {
+    "id": "155fde86cbb238f4",
+    "type": "split",
+    "children": [
+      {
+        "id": "094fe78ba3f6cecf",
+        "type": "tabs",
+        "children": [
+          {
+            "id": "bac39dfe18987bd8",
+            "type": "leaf",
+            "state": {
+              "type": "backlink",
+              "state": {
+                "collapseAll": false,
+                "extraContext": false,
+                "sortOrder": "alphabetical",
+                "showSearch": false,
+                "searchQuery": "",
+                "backlinkCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-coming-in",
+              "title": "Riferimenti"
+            }
+          },
+          {
+            "id": "a7ae18d12e3928e6",
+            "type": "leaf",
+            "state": {
+              "type": "outgoing-link",
+              "state": {
+                "linksCollapsed": false,
+                "unlinkedCollapsed": true
+              },
+              "icon": "links-going-out",
+              "title": "Collegamenti in uscita"
+            }
+          },
+          {
+            "id": "587c28acdfbff8b1",
+            "type": "leaf",
+            "state": {
+              "type": "tag",
+              "state": {
+                "sortOrder": "frequency",
+                "useHierarchy": true
+              },
+              "icon": "lucide-tags",
+              "title": "Etichette"
+            }
+          },
+          {
+            "id": "4a679f9fbeb04ae4",
+            "type": "leaf",
+            "state": {
+              "type": "outline",
+              "state": {},
+              "icon": "lucide-list",
+              "title": "Struttura"
+            }
+          }
+        ]
+      }
+    ],
+    "direction": "horizontal",
+    "width": 300,
+    "collapsed": true
+  },
+  "left-ribbon": {
+    "hiddenItems": {
+      "switcher:Apri selezione rapida": false,
+      "graph:Apri vista grafo": false,
+      "canvas:Crea nuova lavagna": false,
+      "daily-notes:Apri nota del giorno": false,
+      "templates:Inserisci modello": false,
+      "command-palette:Apri riquadro comandi": false
+    }
+  },
+  "active": "c5d9217c2c9a490f",
+  "lastOpenFiles": [
+    "Fratellì non mi cancellare ste cose pls/Autopsy.md",
+    "Fratellì non mi cancellare ste cose pls/Esercizio pcap.md",
+    "Fratellì non mi cancellare ste cose pls/GKAPE.md",
+    "Fratellì non mi cancellare ste cose pls/Esercizio Disco.md",
+    "Fratellì non mi cancellare ste cose pls/Regripper.md",
+    "Fratellì non mi cancellare ste cose pls/Timeline Explorer.md",
+    "Fratellì non mi cancellare ste cose pls/Chiavi registro.md",
+    "Fratellì non mi cancellare ste cose pls/Simulazione esame.md",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241127165809.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241127165516.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241127165249.png",
+    "disco creato da KAPE.md",
+    "Fratellì non mi cancellare ste cose pls/Wireshark.md",
+    "Fratellì non mi cancellare ste cose pls/captureClient.pcapng",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241126175547.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241126175527.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241126174031.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241126173900.png",
+    "Fratellì non mi cancellare ste cose pls/Pasted image 20241126173337.png",
+    "Fratellì non mi cancellare ste cose pls/{9ECAF709-2AED-4300-889B-4041B46A0B18}.png",
+    "Fratellì non mi cancellare ste cose pls",
+    "captureClient.pcapng"
+  ]
+}
