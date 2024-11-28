@@ -2,7 +2,6 @@
 tags:
   - Simulazione
 ---
-
 ## Passaggi esame
 
 - Esegui autopsy come Admin
