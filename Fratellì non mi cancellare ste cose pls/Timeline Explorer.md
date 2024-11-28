@@ -15,5 +15,8 @@ tags:
 *Domanda:* Elencare tutti i nomi di un determinato programma (es solitario.pippo solitario.pluto) -- Nei Prefetch si trovano entrambi
 
 
-### Event Log
+## EvtxECmd_Output
+
+- File degli .evtx
+- Si possono cercare gli event ID al suo interno
 ### Prefetch
